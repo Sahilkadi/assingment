@@ -1,0 +1,104 @@
+1.Are the HTML tags and elements the same thing?
+HTML Tags are building blocks of HTML Page. HTML Elements are components that are used in HTML Page.
+HTML Tags usually exist in pairs consisting of a starting and an ending tag. However,
+some tags do not have a closing tag.
+
+2.What are tags and attributes in HTML?
+It is important to note that both the tags and attributes are within an element. While the elements tell 
+the browser what to display, the attributes define how they will behave. The tags mark the beginning and
+the end of an element. They may not be necessary for some elements, especially the closing tags.
+
+3.What are void elements in HTML? With Example.
+A void element is an element whose content model never allows it to have contents under any circumstances. 
+Void elements can have attributes. The following is a complete list of the void elements in HTML :area,
+base,br,col,command,embed,hr,img,input,keygen,link,meta,param,source,track,wbr.
+
+4.What are HTML Entities? With Example.
+An HTML entity is a piece of text ("string") that begins with an ampersand ( & ) and ends with a semicolon
+( ; ). HTML entities are frequently used to display reserved characters (which would otherwise be
+interpreted as HTML code), and invisible characters (like non-breaking spaces).
+
+5.What are different types of lists in HTML? With Example.
+Unordered list,Nested list,Types of list in HTML,Supporting browsers,Ordered lists,Definition lists,Javatpoint services,
+Trending technologies,Description list,Training for college campus,Preparation.
+
+6.What is the ‘class’ attribute in HTML? With Example.
+The class attribute specifies one or more class names for an element. The class attribute is mostly 
+used to point to a class in a style sheet. However, it can also be used by a JavaScript (via the HTML DOM)
+to make changes to HTML elements with a specified class.
+
+7.What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML
+elements? With Example.
+Remember the difference between Class and ID: A Class name can be used by multiple HTML elements, while 
+an ID name must only be used by one HTML element within the page. The following is a sample HTML page
+using the Class name GreekCity. You can copy code from this to try it out yourself.
+
+8.What are the various formatting tags in HTML?
+<b> - Bold text.
+<strong> - Important text.
+<i> - Italic text.
+<em> - Emphasized text.
+<mark> - Marked text.
+<small> - Smaller text.
+<del> - Deleted text.
+<ins> - Inserted text.
+
+9.How is Cell Padding different from Cell Spacing? With Example.
+Cell padding is used to create a border around the content area of a web page, whereas cell spacing 
+is used for positioning elements (such as images or text) within that content area.
+
+10.How can we club two or more rows or columns into a single row or column in an HTML
+table? With Example
+You can merge two or more table cells in a column using the colspan attribute in a <td> HTML tag (table 
+data). To merge two or more row cells, use the rowspan attribute. On this page, we provide examples 
+and information on using these attributes and show you how they display in the browser.
+
+11.What is the difference between a block-level element and an inline element?
+Inline elements never start from a new line. Block elements cover space from left to right as far as it 
+can go. Inline elements only cover the space as bounded by the tags in the HTML element. Block elements 
+have top and bottom margins.
+
+12.How to create a Hyperlink in HTML? With Example.
+<a> </a> Next, add your homepage's URL using the href attribute:
+<a href="https://www.yourhomepage.com"> </a> Now, add the anchor text people will click to go to your link:
+<a href="https://www.homepage.com>Visit our homepage</a> Your anchor text should be descriptive.
+
+13.What is the use of an iframe tag? With Example.
+How is iframe used? The most common use of an iframe is to load content from another site within the 
+page. The child site can load its own content and cookies, so sites may allow it where they don't allow 
+direct hotlinking content. Using an iframe is the accepted way to embed a YouTube video or Google 
+Maps content.
+
+14.What is the use of a span tag? Explain with example?
+In HTML, the span tag is a generic inline container element. You use this element to wrap sections of 
+text for styling purposes or to add attributes to a section of text without creating a new line of 
+content. It is similar — but not the same as — the <div> tag.
+
+15.How to insert a picture into a background image of a web page? With Example.
+We can use the background attribute in the body tag to set an image as the background of the webpage. 
+We will need to specify the URL or the location of the image which we want to set to the background 
+attribute of the body tag.
+
+16.How are active links different from normal links?
+Active links are typically links that are currently functional and lead to live web pages, while normal 
+links can refer to any link, whether functional or broken. Active links are actively used and accessible,
+ while normal links may or may not be functional at a given time.
+
+17.What are the different tags to separate sections of text?
+br> tag – It is used to separate the line of text. It breaks the current line and shifts the flow of the 
+text to a new line.
+
+18.What is SVG?
+SVG is an XML-based vector image format for defining two-dimensional graphics, having support for 
+interactivity and animation. The SVG specification is an open standard developed by the World Wide Web 
+Consortium since 1999. SVG images are defined in a vector graphics format and stored in XML text files.
+
+19.What is difference between HTML and XHTML?
+HTML (HypertextMarkup Language) and XHTML (ExtensibleHypertext Markup Language) are both markup 
+languages used for creating and displaying web pages. The main difference between them is the syntax and 
+structure; HTML is more lenient in its syntax, while XHTML has a more strict syntax and follows XML rules.
+
+20.What are logical and physical tags in HTML?
+In HTML the formatting tags are divided into two categories: Physical tag: These tags are used to provide 
+the visual appearance to the text. Logical tag: These tags are used to add some logical or semantic value 
+to the text.
